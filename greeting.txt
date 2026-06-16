@@ -1,6 +1,1 @@
-Hello, Developer!
-
-Welcome to your first GitHub workflow project.
-
-This is a simple greeting file that you'll personalize
-as you practice the professional development workflow.
+Hello team! This is Paul Longakit, and I am Learning Github and Git Flow Practices. Thank you for having me!
